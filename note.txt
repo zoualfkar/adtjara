@@ -16,3 +16,7 @@
     Git commit -a -m "your message"
     git push
 
+----------------------------------------------------------log in git termainal
+
+
+ git config --global user.name "Your Name"
