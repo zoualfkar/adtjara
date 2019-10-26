@@ -1,0 +1,17 @@
+http://mhemeedpro.com/api/adtjara/login_user.php?number=935967263&pass=mosaab1995
+---------------------------------
+http://mhemeedpro.com/api/adtjara/ads.php
+
+---------------------------------
+http://mhemeedpro.com/api/adtjara/stores.php?count=3
+
+
+---------------------------------
+
+http://mhemeedpro.com/api/adtjara/store_info.php?id_store=2
+
+//or 3 or 4
+---------------------------------
+
+
+

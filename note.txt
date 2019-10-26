@@ -1,0 +1,18 @@
+
+
+    ---------------------------------------receved update from github
+
+
+    git pull
+    ---------------------------------------send your edite to github
+
+    Git commit -a -m "your message"
+    git push
+
+
+
+    ---------------------------------------send your edite to github if you add new file/s
+    git add --a        add files to project
+    Git commit -a -m "your message"
+    git push
+
