@@ -1,5 +1,7 @@
 <?php
-
+// return image if call this api
+//for ads image 
+// create by mosaab
 header('Content-Type: application/json');
 include('connect.php');
 if(isset($_GET['id_ad']))
